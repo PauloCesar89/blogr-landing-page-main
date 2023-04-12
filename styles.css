@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+:root{
+--primary-Light-red: hsl(356, 100%, 66%);
+--primary-Very-light-red: hsl(355, 100%, 74%);       /* ### Primary */
+--primary-Very-dark-blue: hsl(208, 49%, 24%);
+
+--neutral-White-text: hsl(0, 0%, 100%);
+--neutral-Grayish-blue-footer-text: hsl(240, 2%, 79%);
+--neutral-Very-dark-grayish-blue: hsl(207, 13%, 34%);       /* ### Neutral */
+--neutral-Very-dark-black-blue-footer: hsl(240, 10%, 16%);
+
+--grad-Very-light-red: hsl(13, 100%, 72%);                  /* Background gradient - Intro/CTA mobile nav: */
+--grad-Light-red: hsl(353, 100%, 62%);
+
+--body-Very-dark-gray-blue: hsl(237, 17%, 21%);             /* Background gradient - body */
+--body-Very-dark-desaturated-blue: hsl(237, 23%, 32%);
+}
