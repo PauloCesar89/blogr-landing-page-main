@@ -1,49 +1,49 @@
-# Guia de estilo de front-end
+# Front-end Style Guide
 
 ## Layout
 
-Os desenhos foram criados nas seguintes larguras:
+The designs were created to the following widths:
 
-- Móvel: 375px
-- Área de trabalho: 1440px
+- Mobile: 375px
+- Desktop: 1440px
 
-## Cores
+## Colors
 
-### Principal
+### Primary
 
-- Vermelho claro (texto CTA): hsl(356, 100%, 66%)
-- Vermelho muito claro (plano de fundo do CTA): hsl(355, 100%, 74%)
-- Azul muito escuro (títulos): hsl(208, 49%, 24%)
+- Light red (CTA text): hsl(356, 100%, 66%)
+- Very light red (CTA hover background): hsl(355, 100%, 74%)
+- Very dark blue (headings): hsl(208, 49%, 24%)
 
-### Neutro
+    ### Neutral
 
-- Branco (texto): hsl(0, 0%, 100%)
-- Azul acinzentado (texto do rodapé): hsl(240, 2%, 79%)
-- Azul acinzentado muito escuro (cópia do corpo): hsl(207, 13%, 34%)
-- Azul preto muito escuro (fundo do rodapé): hsl(240, 10%, 16%)
+- White (text): hsl(0, 0%, 100%)
+- Grayish blue (footer text): hsl(240, 2%, 79%)
+- Very dark grayish blue (body copy): hsl(207, 13%, 34%)
+- Very dark black blue (footer background): hsl(240, 10%, 16%)
 
-### Gradiente
+### Gradient
 
-Gradiente de plano de fundo - navegação móvel de introdução/CTA:
+Background gradient - Intro/CTA mobile nav:
 
-- Vermelho muito claro: hsl(13, 100%, 72%)
-- Vermelho claro: hsl(353, 100%, 62%)
+- Very light red: hsl(13, 100%, 72%)
+- Light red: hsl(353, 100%, 62%)
 
-Gradiente de fundo - corpo:
+Background gradient - body:
 
-- Azul cinza muito escuro: hsl(237, 17%, 21%)
-- Azul dessaturado muito escuro: hsl(237, 23%, 32%)
+- Very dark gray blue: hsl(237, 17%, 21%)
+- Very dark desaturated blue: hsl(237, 23%, 32%)
 
-## Tipografia
+## Typography
 
-### Cópia do corpo
+### Body Copy
 
-- Tamanho da fonte: 16px
+- Font size: 16px
 
-### Fontes
+### Fonts
 
-- Família: [Overpass](https://fonts.google.com/specimen/Overpass?preview.text_type=custom)
-- Pesos: 300, 600
+- Family: [Overpass](https://fonts.google.com/specimen/Overpass?preview.text_type=custom)
+- Weights: 300, 600
 
-- Família: [Ubuntu](https://fonts.google.com/specimen/Ubuntu?preview.text_type=custom)
-- Pesos: 400, 500, 700
+- Family: [Ubuntu](https://fonts.google.com/specimen/Ubuntu?preview.text_type=custom)
+- Weights: 400, 500, 700
