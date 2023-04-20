@@ -130,9 +130,9 @@ p{
 .section-two-title h2{
     position: absolute;
     top: 100%;
-    left: 40%;
+    left: 36%;
     height: 30px;
-    font-size: 30px;
+    font-size: 35px;
     color: var(--primary-Very-dark-blue);
 }
 
@@ -181,24 +181,20 @@ p{
 
 .section-tree h2{
     position: relative;
-    left: 60%;
-    top: 10px;
     color: var(--neutral-White-text);
     text-align: center;
-    width: 500px;
-    font-size: 35px;
+    width: 520px;
+    font-size: 36px;
     top: 30%;
     left: 51%;
 }
 
 .section-tree p{
     position: relative;
-    left: 60%;
-    top: 10px;
+    left: 52%;
+    top: 30%;
     color: var(--neutral-White-text);
     width: 500px;
-    top: 30%;
-    left: 50%;
 }
 
 .section-tree-img{
